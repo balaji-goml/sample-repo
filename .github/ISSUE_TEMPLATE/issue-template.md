@@ -1,13 +1,4 @@
 ---
-name: Issue template
-about: Report a Issue
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: Security Change Assessment
 about: Document and assess the impact of a planned change on information security
 title: "[Change]: "
